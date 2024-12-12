@@ -1,0 +1,142 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.mainas{
+    /* border: 2px solid black; */
+    /* height: 360px;
+    width: 750px; */
+    /* border: 2px sloid red; */
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; */
+    /* background-color: rgb(6, 15, 61); */
+    /* background-image: linear-gradient(to bottom,rgb(25, 229, 229),rgb(86, 147, 201),rgb(97, 131, 198)); */
+}
+.inputas{
+/* border: 2px solid blue; */
+/* height: 50px;
+width:320px;
+margin: 10px;
+display: flex;
+gap: 2px;
+background-color: white;
+padding-bottom: 3px;
+border-bottom: 1px solid rgb(45, 102, 225); */
+}
+
+/* .del{ */
+    /* height: 30px;
+    width: 70px; */
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    /* background-color: rgba(94, 150, 219, 0.895); */
+    /* display: inline;
+    color: white;
+    margin: 6px;
+    padding: 3px;
+    border: none; */
+    
+/* } */
+.listy2{
+    /* border: 2px solid blue; */
+  
+    /* flex-direction: row; */
+    /* width: 280px;
+    height: 37px;
+    margin: 10px; */
+    /* gap: 20px; */
+    /* border-radius: 8%; */
+    /* box-shadow: 2px 2px 2px black;
+    background-color: rgba(248, 243, 249, 0.991);
+    display: flex;
+    align-items: center; */
+    /* justify-content: space-between; */
+    /* gap: 100px; */
+
+   
+}
+/* .inas{
+    /* border: 2px solid black; */
+    /* height: 300px;
+    width: 48%;
+    border-radius: 3%; */
+    /* background-color: white; */
+    /* overflow-x: auto;
+    box-shadow: 2px 2px 3px black;
+    background-image: linear-gradient(to bottom,rgb(25, 229, 229),rgb(86, 147, 201),rgb(97, 131, 198)); */
+    /* display: flex; */
+/* } */ */
+/* .inputpart{
+    width:200px;
+     height: 35px;
+     /* border: 2px solid red; */
+     /* margin: 6px; */
+/* } */ */
+.btnic{
+    width:45px;
+     height: 30px;
+}
+/* .upbtn{
+    width:45px;
+    height: 30px;
+    padding: 5px;
+} */
+/* .adbtn{ */
+   /* height: 20px;
+   width: 20px; */
+   /* height: 100%;
+   width: 100%;
+   margin: 10px;
+   padding: 10px;
+   display: flex; */
+   /* flex-direction: row; */
+   /* flex-shrink: 0;
+   justify-content: center;
+   align-items: center;
+   font-size: 24px; */
+   /* box-shadow: 1px 1px grey; */
+   /* background-color: white; */
+   /* background-image: linear-gradient(rgb(231, 142, 26),yellow); */
+   /* border: 2px solid white; */
+   /* text-decoration: none;
+   color: rgb(35, 128, 182);
+   
+} */
+/* .adbtn:hover{
+    background-color: rgb(105, 168, 230);
+    color: white; */
+    /* background-image: linear-gradient(rgb(230, 198, 225),rgb(139, 142, 222)); */
+/* } */
+/* input{
+    /* margin: 3px; */
+    /* height: 100%;
+    width: 100%;
+    background-image: linear-gradient(to bottom,rgb(25, 229, 229),rgb(86, 147, 201),rgb(97, 131, 198));
+    border: none; */
+    
+
+/* } */ */
+/* ::placeholder{
+    color: rgb(165, 159, 178);
+} */
+/* .htodo{
+    height: 40px;
+    width: 500px;
+    /* border: 2px solid blue; */
+    /* margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid rgb(49, 124, 228); */
+    /* background-image: linear-gradient(to bottom right,rgb(25, 229, 229),rgb(86, 147, 201),rgb(97, 131, 198)) */
+/* } */ */
+/* h2{
+    letter-spacing: 2px;
+    color: rgb(29, 151, 208);
+    text-shadow:  2px 2px 2px black;
+    font-family: Arial, Helvetica, sans-serif;
+} */
